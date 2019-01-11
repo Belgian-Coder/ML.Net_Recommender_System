@@ -1,2 +1,2 @@
-# Ordina-ML.Net_Recommender_Systems
+# ML .Net - Recommender System
 Introduction to ML .Net and the recommender system
